@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reeduca.Api", "Reeduca.Api\Reeduca.Api.csproj", "{258F5A62-9F78-44D6-B495-AC9D06BEEB3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reeduca.Domain", "Reeduca.Domain\Reeduca.Domain.csproj", "{34E8292D-6CD8-48BF-8032-7C8E8D64C96F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reeduca.DTO", "Reeduca.DTO\Reeduca.DTO.csproj", "{1AFDEEC7-8173-4B92-9F46-6F1803A763D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reeduca.Entity", "Reeduca.Entity\Reeduca.Entity.csproj", "{ADE7EB8A-588E-476C-A296-AEABCA17E371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reeduca.Infra", "Reeduca.Infra\Reeduca.Infra.csproj", "{C8DB84B8-4FA6-4283-8AA4-1EE5D1A0C47B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reeduca.Tests", "Reeduca.Tests\Reeduca.Tests.csproj", "{EF5D4F1D-0E14-4A35-A22E-46C2AB9C9339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{258F5A62-9F78-44D6-B495-AC9D06BEEB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258F5A62-9F78-44D6-B495-AC9D06BEEB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258F5A62-9F78-44D6-B495-AC9D06BEEB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258F5A62-9F78-44D6-B495-AC9D06BEEB3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E8292D-6CD8-48BF-8032-7C8E8D64C96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E8292D-6CD8-48BF-8032-7C8E8D64C96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E8292D-6CD8-48BF-8032-7C8E8D64C96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E8292D-6CD8-48BF-8032-7C8E8D64C96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AFDEEC7-8173-4B92-9F46-6F1803A763D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFDEEC7-8173-4B92-9F46-6F1803A763D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFDEEC7-8173-4B92-9F46-6F1803A763D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFDEEC7-8173-4B92-9F46-6F1803A763D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE7EB8A-588E-476C-A296-AEABCA17E371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE7EB8A-588E-476C-A296-AEABCA17E371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE7EB8A-588E-476C-A296-AEABCA17E371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE7EB8A-588E-476C-A296-AEABCA17E371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8DB84B8-4FA6-4283-8AA4-1EE5D1A0C47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DB84B8-4FA6-4283-8AA4-1EE5D1A0C47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DB84B8-4FA6-4283-8AA4-1EE5D1A0C47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DB84B8-4FA6-4283-8AA4-1EE5D1A0C47B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5D4F1D-0E14-4A35-A22E-46C2AB9C9339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5D4F1D-0E14-4A35-A22E-46C2AB9C9339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5D4F1D-0E14-4A35-A22E-46C2AB9C9339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5D4F1D-0E14-4A35-A22E-46C2AB9C9339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE59A139-CD4B-4FD1-B506-CE1A9127698B}
+	EndGlobalSection
+EndGlobal
